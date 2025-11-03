@@ -4,7 +4,6 @@
 
 # I have updated this README.md file.
 
-I need finish homework.
-
+Edited on GitHub
 
 
