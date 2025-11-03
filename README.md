@@ -1,6 +1,10 @@
-# My Git Demo
+# \# My Git Demo
 
-This is my first Git repository.
+# This is my first Git repository.
 
-Lanc
+# I have updated this README.md file.
+
+I need finish homework.
+
+
 
